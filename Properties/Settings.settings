@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Test.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Usuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pruebas</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">069f57dae98079b842a956e41d081e76487591a2ad65fa7a450717c1ab19767f</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
